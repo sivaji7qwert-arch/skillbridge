@@ -1,0 +1,31 @@
+skill_id,name,category
+SK0001,Python,Programming
+SK0002,SQL,Data
+SK0003,Excel,Data
+SK0004,Power BI,Data Visualization
+SK0005,Tableau,Data Visualization
+SK0006,AWS,Cloud
+SK0007,Azure,Cloud
+SK0008,GCP,Cloud
+SK0009,Docker,DevOps
+SK0010,Kubernetes,DevOps
+SK0011,Git,DevOps
+SK0012,CI/CD,DevOps
+SK0013,Machine Learning,AI/ML
+SK0014,Deep Learning,AI/ML
+SK0015,TensorFlow,AI/ML
+SK0016,PyTorch,AI/ML
+SK0017,NLP,AI/ML
+SK0018,Generative AI,AI/ML
+SK0019,Prompt Engineering,AI/ML
+SK0020,Java,Programming
+SK0021,JavaScript,Programming
+SK0022,React,Frontend
+SK0023,Node.js,Backend
+SK0024,FastAPI,Backend
+SK0025,MongoDB,Database
+SK0026,PostgreSQL,Database
+SK0027,Cybersecurity,Security
+SK0028,Network Security,Security
+SK0029,PLC,Industrial
+SK0030,CNC,Industrial

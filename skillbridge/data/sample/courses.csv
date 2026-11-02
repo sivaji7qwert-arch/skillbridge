@@ -1,0 +1,21 @@
+course_id,title,skills,difficulty,duration_weeks
+CRS001,Advanced Data Analytics,"Excel, SQL, Statistics, Power BI, Python, Machine Learning",Beginner,6
+CRS002,Full Stack Web Development,"HTML/CSS, JavaScript, React, Node.js, MongoDB, Git",Intermediate,12
+CRS003,Cloud & DevOps Fundamentals,"AWS, Docker, Kubernetes, Linux, CI/CD",Beginner,8
+CRS004,Applied Machine Learning,"Python, Machine Learning, Statistics, TensorFlow",Beginner,12
+CRS005,Cybersecurity Essentials,"Cybersecurity, Network Security, Linux, Risk Management",Beginner,12
+CRS006,Industrial Automation,"PLC, SCADA, AutoCAD, Industrial IoT",Beginner,6
+CRS007,Electric Vehicle Technology,"EV Battery Systems, Electric Vehicle Diagnostics, PLC",Advanced,8
+CRS008,Renewable Energy Systems,"Solar Panel Installation, Renewable Energy Systems, AutoCAD",Beginner,6
+CRS009,Digital Marketing Bootcamp,"Digital Marketing, SEO, Content Writing",Intermediate,6
+CRS010,Business Analytics Foundations,"Excel, SQL, Business Analysis, Power BI",Advanced,12
+CRS011,Financial Modeling & Risk,"Financial Modeling, Risk Management, Excel",Intermediate,6
+CRS012,Generative AI Foundations,"Python, NLP, Generative AI, Prompt Engineering",Beginner,4
+CRS013,Supply Chain Analytics,"Supply Chain Management, Inventory Management, Excel, SQL",Beginner,8
+CRS014,UI/UX Design Essentials,"UI/UX Design, Figma, HTML/CSS",Advanced,6
+CRS015,Quality Assurance & Testing,"Quality Assurance, Automation Testing, Git",Advanced,6
+CRS016,SAP Fundamentals,"SAP, Business Analysis, Excel",Intermediate,6
+CRS017,Healthcare Informatics,"Healthcare Informatics, SQL, Medical Coding",Beginner,12
+CRS018,Precision Agriculture Tech,"GIS, Precision Farming, Python",Intermediate,8
+CRS019,Network Administration,"Network Security, Linux, Bash Scripting",Beginner,4
+CRS020,Product Management Basics,"Product Management, Agile/Scrum, Communication Skills",Beginner,4

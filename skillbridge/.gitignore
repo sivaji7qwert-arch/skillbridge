@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Environment
+.env
+backend/.env
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Data (raw/processed data can be large / regenerated - keep sample only)
+data/raw/*.csv
+data/processed/*
+
+# but keep a small demo sample committed
+!data/sample/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Models
+models/*.pkl
+models/*.bin
+
+# Logs
+*.log

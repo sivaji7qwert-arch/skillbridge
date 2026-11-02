@@ -1,0 +1,31 @@
+student_id,name,city,target_role,known_skills,education
+STU00001,Aadhya Naik,Aurangabad,Precision Agriculture Specialist,"Statistics, GIS",Master's
+STU00002,Ananya Bansal,Nagpur,Supply Chain Analyst,Supply Chain Management,Diploma
+STU00003,Vikram Kulkarni,Navi Mumbai,Product Manager,"SQL, Agile/Scrum",Bachelor's
+STU00004,Pari Kadam,Pune,Cybersecurity Analyst,Linux,Master's
+STU00005,Deepa Menon,Thane,Data Scientist,"Machine Learning, PyTorch, TensorFlow",Master's
+STU00006,Nikhil Agarwal,Aurangabad,Product Manager,"Agile/Scrum, Communication Skills, Product Management",Bachelor's
+STU00007,Saanvi Kadam,Mumbai,QA Engineer,"Quality Assurance, Agile/Scrum",Bachelor's
+STU00008,Divya Shah,Pune,Frontend Developer,"TypeScript, HTML/CSS",ITI Certificate
+STU00009,Meera Nair,Aurangabad,Cloud Engineer,"CI/CD, Kubernetes, Linux",Master's
+STU00010,Pari Chopra,Thane,Renewable Energy Engineer,"Renewable Energy Systems, GIS",Bachelor's
+STU00011,Vikram Sharma,Thane,SAP Consultant,Business Analysis,Bachelor's
+STU00012,Lakshmi Kamble,Mumbai,Solar Technician,PLC,ITI Certificate
+STU00013,Isha Patel,Thane,DevOps Engineer,"Linux, Git, Bash Scripting, Docker",Bachelor's
+STU00014,Lakshmi Jadhav,Pune,QA Engineer,"Automation Testing, Agile/Scrum",Diploma
+STU00015,Isha Menon,Navi Mumbai,Healthcare Data Analyst,"SQL, Medical Coding, Excel",ITI Certificate
+STU00016,Sneha Kamble,Pune,UI/UX Designer,Communication Skills,Bachelor's
+STU00017,Neha Bhosale,Nashik,Digital Marketing Specialist,"Digital Marketing, Content Writing",Bachelor's
+STU00018,Sneha Chavan,Nagpur,Data Scientist,"Deep Learning, Python, SQL",Diploma
+STU00019,Saanvi Gaikwad,Kolhapur,Financial Analyst,"Statistics, Excel",Diploma
+STU00020,Suresh Bansal,Kolhapur,Backend Developer,"FastAPI, Java, PostgreSQL, Git",ITI Certificate
+STU00021,Vihaan Naik,Mumbai,CNC Operator,AutoCAD,Master's
+STU00022,Aditya Iyer,Thane,SAP Consultant,Excel,Bachelor's
+STU00023,Lakshmi Agarwal,Thane,Data Scientist,"Statistics, Python",ITI Certificate
+STU00024,Rahul Kulkarni,Aurangabad,AI Engineer,"Machine Learning, NLP",Bachelor's
+STU00025,Isha Naik,Thane,Industrial Automation Technician,PLC,Bachelor's
+STU00026,Anika Chopra,Pune,Precision Agriculture Specialist,Statistics,ITI Certificate
+STU00027,Anika Menon,Nashik,Industrial Automation Technician,"AutoCAD, SCADA",Diploma
+STU00028,Kavya Mehta,Mumbai,AI Governance Analyst,"Generative AI, Communication Skills",Bachelor's
+STU00029,Karan Kulkarni,Kolhapur,Frontend Developer,"JavaScript, UI/UX Design, HTML/CSS",Bachelor's
+STU00030,Divya Gupta,Pune,Renewable Energy Engineer,"GIS, AutoCAD",Diploma
